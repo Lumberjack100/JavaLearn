@@ -1,6 +1,6 @@
-package com.answer;//: concurrency/com.test.E08_MoreBasicDaemonThreads.java
+package com.thinkinginjava.concurrency.answer;//: concurrency/com.test.E08_MoreBasicDaemonThreads.java
 
-import com.bookdemo.LiftOff;
+import com.thinkinginjava.concurrency.booksource.LiftOff;
 
 /****************** Exercise 8 *****************
  * Modify MoreBasicThreads.java so that all the

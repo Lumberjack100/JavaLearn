@@ -1,6 +1,4 @@
-package com.bookdemo;
-
-import com.bookdemo.LiftOff;
+package com.thinkinginjava.concurrency.booksource;
 
 public class MainThread
 {

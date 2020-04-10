@@ -3,7 +3,7 @@
  * Experiment with different sleep times in
  * Daemons.java to see what happens.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;
 

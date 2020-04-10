@@ -1,4 +1,4 @@
-package com.answer;//: concurrency/com.test.E01_Runnable.java
+package com.thinkinginjava.concurrency.answer;//: concurrency/com.test.E01_Runnable.java
 /****************** Exercise 1 *****************
  * Implement a Runnable. Inside run(), print a
  * message, and then call yield(). Repeat this

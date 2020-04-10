@@ -6,7 +6,7 @@
  * and each time you call runTask() it returns
  * the Future produced by the call to submit().
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.*;
 import java.util.concurrent.*;
 

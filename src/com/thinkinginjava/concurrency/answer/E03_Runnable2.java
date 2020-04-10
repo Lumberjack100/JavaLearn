@@ -3,7 +3,7 @@
  * Repeat Exercise 1 using the different types of
  * executors shown in this section.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.concurrent.*;
 
 public class E03_Runnable2 {

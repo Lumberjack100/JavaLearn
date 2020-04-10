@@ -1,4 +1,4 @@
-package com.bookdemo;
+package com.thinkinginjava.concurrency.booksource;
 
 public class LiftOff implements Runnable
 {

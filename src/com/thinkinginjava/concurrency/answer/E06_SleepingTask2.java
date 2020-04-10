@@ -6,7 +6,7 @@
  * its sleep time and exits. Create and run a quantity
  * (given on the command line) of these tasks.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.*;
 import java.util.concurrent.*;
 

@@ -1,4 +1,4 @@
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 
 import net.mindview.util.Generator;
 

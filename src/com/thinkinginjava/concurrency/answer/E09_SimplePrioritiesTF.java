@@ -3,7 +3,7 @@
  * Modify SimplePriorities.java so that a custom
  * ThreadFactory sets the priorities of the threads.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.concurrent.*;
 
 class SimplePriorities2 implements Runnable {

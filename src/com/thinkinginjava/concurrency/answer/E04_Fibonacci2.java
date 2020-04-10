@@ -3,7 +3,7 @@
  * Repeat Exercise 2 using the different types of
  * executors shown in this section.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.concurrent.*;
 
 public class E04_Fibonacci2 {

@@ -4,7 +4,7 @@
  * that sums the values of all the Fibonacci numbers.
  * Create several tasks and display the results.
  ***********************************************/
-package com.answer;
+package com.thinkinginjava.concurrency.answer;
 import java.util.*;
 import java.util.concurrent.*;
 import net.mindview.util.*;
