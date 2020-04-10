@@ -27,7 +27,6 @@ class Printer implements Runnable {
     Thread.yield();
     System.out.println("Printer ended, ID = " + id);
   }
-
 }
 
 public class E01_Runnable {
