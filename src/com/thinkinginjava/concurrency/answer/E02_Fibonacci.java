@@ -42,7 +42,7 @@ class Fibonacci implements Generator<Integer>, Runnable {
     Integer[] sequence = new Integer[n];
     for (int i = 0; i < n; i++)
       sequence[i] = next();
-    System.out.println(
-            "Seq. of " + n + ": " + Arrays.toString(sequence));
+
+    System.out.println("Seq. of " + n + ": " + Arrays.toString(sequence));
   }
 }

@@ -2,6 +2,8 @@ package com.thinkinginjava.concurrency.answer;//: concurrency/com.test.E08_MoreB
 
 import com.thinkinginjava.concurrency.booksource.LiftOff;
 
+import java.util.concurrent.TimeUnit;
+
 /****************** Exercise 8 *****************
  * Modify MoreBasicThreads.java so that all the
  * threads are daemon threads, and verify that the
@@ -15,7 +17,7 @@ public class E08_MoreBasicDaemonThreads {
       t.setDaemon(true);
       t.start();
     }
-    System.out.println("Waiting for com.test.LiftOff");
+    System.out.println("Waiting for LiftOff");
   }
 } /* Output: (Sample)
 Waiting for com.test.LiftOff
