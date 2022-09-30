@@ -17,9 +17,13 @@ public class Test1
 //        System.out.println("x.equals(y): " + x.equals(y)); // true
 //        System.out.println("m.equals(n): " + m.equals(n)); // true
 
-        List<String> tempList = new ArrayList<>();
-        List<String> tempList2 = new ArrayList<>();
-        m(tempList, tempList2);
+//        List<String> tempList = new ArrayList<>();
+//        List<String> tempList2 = new ArrayList<>();
+//        m(tempList, tempList2);
+
+
+        count();
+        System.out.println("Count complete");
     }
 
     @SafeVarargs
@@ -31,6 +35,13 @@ public class Test1
         String s = stringLists[0].get(0); // Oh no, ClassCastException at runtime!
 
         String dd = "";
+    }
+
+
+    private static void count() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 
 }
